@@ -1,0 +1,253 @@
+[08-Mar-2016 17:58:24 Europe/Berlin] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[30-May-2016 15:12:57 Europe/Berlin] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[14-Jun-2016 12:28:57 Europe/Berlin] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[06-Jul-2016 13:03:43 Europe/Berlin] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[06-Jul-2016 13:07:32 Europe/Berlin] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[21-Jul-2016 21:53:11 Europe/Berlin] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[11-Oct-2016 16:21:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 252
+[11-Oct-2016 17:37:20 Europe/Berlin] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[11-Oct-2016 17:47:55 Europe/Berlin] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[01-Feb-2017 22:25:37 Europe/Berlin] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[25-Jul-2017 21:33:58 Europe/Berlin] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[26-Mar-2018 14:33:24 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[26-Mar-2018 14:33:24 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[26-Mar-2018 14:33:24 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1965&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[26-Mar-2018 14:33:24 UTC] PHP Warning:  file_put_contents(diplomas/diploma1965.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[26-Mar-2018 17:50:34 UTC] Default exception handler: Un parámetro necesario (attempt) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 40 of /mod/quiz/attempt.php: call to required_param()
+
+[26-Mar-2018 17:50:37 UTC] Default exception handler: Un parámetro necesario (attempt) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 35 of /mod/quiz/review.php: call to required_param()
+
+[26-Mar-2018 17:50:38 UTC] Default exception handler: ID de cuestionario no válida Debug: 
+Error code: invalidquizid
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 45 of /mod/quiz/view.php: call to print_error()
+
+[26-Mar-2018 17:50:40 UTC] Default exception handler: Un parámetro necesario (attempt) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 29 of /mod/quiz/summary.php: call to required_param()
+
+[01-Apr-2018 13:00:39 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[01-Apr-2018 13:00:40 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[01-Apr-2018 13:00:40 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1986&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[01-Apr-2018 13:00:40 UTC] PHP Warning:  file_put_contents(diplomas/diploma1986.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[03-Apr-2018 07:18:19 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[03-Apr-2018 07:18:20 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[03-Apr-2018 07:18:20 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1989&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[03-Apr-2018 07:18:20 UTC] PHP Warning:  file_put_contents(diplomas/diploma1989.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[04-Apr-2018 19:24:49 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[04-Apr-2018 19:24:49 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[04-Apr-2018 19:24:49 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1980&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[04-Apr-2018 19:24:49 UTC] PHP Warning:  file_put_contents(diplomas/diploma1980.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[05-Apr-2018 05:49:53 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[05-Apr-2018 05:49:53 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[05-Apr-2018 05:49:53 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1993&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[05-Apr-2018 05:49:53 UTC] PHP Warning:  file_put_contents(diplomas/diploma1993.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[05-Apr-2018 16:19:01 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[05-Apr-2018 16:19:01 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[05-Apr-2018 16:19:01 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1998&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[05-Apr-2018 16:19:01 UTC] PHP Warning:  file_put_contents(diplomas/diploma1998.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[09-Apr-2018 15:37:31 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[09-Apr-2018 15:37:31 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[09-Apr-2018 15:37:31 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2000&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[09-Apr-2018 15:37:31 UTC] PHP Warning:  file_put_contents(diplomas/diploma2000.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[11-Apr-2018 18:52:14 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[11-Apr-2018 18:52:15 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[11-Apr-2018 18:52:15 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1999&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[11-Apr-2018 18:52:15 UTC] PHP Warning:  file_put_contents(diplomas/diploma1999.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[11-Apr-2018 18:53:42 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[11-Apr-2018 18:53:43 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[11-Apr-2018 18:53:43 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1999&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[11-Apr-2018 18:53:43 UTC] PHP Warning:  file_put_contents(diplomas/diploma1999.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[11-Apr-2018 19:02:52 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[11-Apr-2018 19:02:52 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[11-Apr-2018 19:02:52 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1999&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[11-Apr-2018 19:02:52 UTC] PHP Warning:  file_put_contents(diplomas/diploma1999.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[12-Apr-2018 17:20:06 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[12-Apr-2018 17:20:06 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[12-Apr-2018 17:20:06 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2002&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[12-Apr-2018 17:20:06 UTC] PHP Warning:  file_put_contents(diplomas/diploma2002.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[24-Apr-2018 12:54:52 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[24-Apr-2018 12:54:52 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[24-Apr-2018 12:54:52 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1930&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[24-Apr-2018 12:54:52 UTC] PHP Warning:  file_put_contents(diplomas/diploma1930.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[25-Apr-2018 16:40:00 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[25-Apr-2018 16:40:00 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[25-Apr-2018 16:40:00 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2023&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[25-Apr-2018 16:40:00 UTC] PHP Warning:  file_put_contents(diplomas/diploma2023.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[27-Apr-2018 17:10:54 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[27-Apr-2018 17:10:54 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[27-Apr-2018 17:10:54 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=1976&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[27-Apr-2018 17:10:54 UTC] PHP Warning:  file_put_contents(diplomas/diploma1976.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[28-Apr-2018 09:01:40 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[28-Apr-2018 09:01:40 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[28-Apr-2018 09:01:40 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2021&amp;course=28&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[28-Apr-2018 09:01:40 UTC] PHP Warning:  file_put_contents(diplomas/diploma2021.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[29-Apr-2018 09:55:35 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[29-Apr-2018 09:55:35 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[29-Apr-2018 09:55:35 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2025&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[29-Apr-2018 09:55:35 UTC] PHP Warning:  file_put_contents(diplomas/diploma2025.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[29-Apr-2018 11:25:03 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[29-Apr-2018 11:25:03 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[29-Apr-2018 11:25:03 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2027&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[29-Apr-2018 11:25:03 UTC] PHP Warning:  file_put_contents(diplomas/diploma2027.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[01-May-2018 05:17:02 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[01-May-2018 05:17:02 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[01-May-2018 05:17:02 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2024&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[01-May-2018 05:17:02 UTC] PHP Warning:  file_put_contents(diplomas/diploma2024.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[01-May-2018 05:19:35 UTC] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[01-May-2018 05:19:35 UTC] Default exception handler: Este intento ya ha sido finalizado. Debug: 
+Error code: attemptalreadyclosed
+* line 100 of /mod/quiz/processattempt.php: moodle_quiz_exception thrown
+
+[01-May-2018 05:35:07 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[01-May-2018 05:35:07 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[01-May-2018 05:35:07 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2024&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[01-May-2018 05:35:07 UTC] PHP Warning:  file_put_contents(diplomas/diploma2024.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[06-May-2018 12:51:16 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[06-May-2018 12:51:16 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[06-May-2018 12:51:16 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2003&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[06-May-2018 12:51:16 UTC] PHP Warning:  file_put_contents(diplomas/diploma2003.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[07-May-2018 19:09:00 UTC] Default exception handler: Un parámetro necesario (attempt) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 39 of /mod/quiz/processattempt.php: call to required_param()
+
+[07-May-2018 19:10:06 UTC] Default exception handler: Un parámetro necesario (attempt) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 39 of /mod/quiz/processattempt.php: call to required_param()
+
+[07-May-2018 19:11:41 UTC] Default exception handler: Un parámetro necesario (attempt) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 39 of /mod/quiz/processattempt.php: call to required_param()
+
+[07-May-2018 19:12:03 UTC] Default exception handler: Un parámetro necesario (attempt) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 39 of /mod/quiz/processattempt.php: call to required_param()
+
+[07-May-2018 19:12:41 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[07-May-2018 19:12:41 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[07-May-2018 19:12:41 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2040&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[07-May-2018 19:12:41 UTC] PHP Warning:  file_put_contents(diplomas/diploma2040.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[07-May-2018 20:17:00 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[07-May-2018 20:17:00 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[07-May-2018 20:17:00 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2032&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[07-May-2018 20:17:00 UTC] PHP Warning:  file_put_contents(diplomas/diploma2032.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[09-May-2018 09:12:55 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[09-May-2018 09:12:55 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[09-May-2018 09:12:55 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2025&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[09-May-2018 09:12:55 UTC] PHP Warning:  file_put_contents(diplomas/diploma2025.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[09-May-2018 09:56:02 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[09-May-2018 09:56:02 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[09-May-2018 09:56:02 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2025&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[09-May-2018 09:56:02 UTC] PHP Warning:  file_put_contents(diplomas/diploma2025.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[10-May-2018 15:33:37 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[10-May-2018 15:33:37 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[10-May-2018 15:33:37 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2054&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[10-May-2018 15:33:37 UTC] PHP Warning:  file_put_contents(diplomas/diploma2054.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[14-May-2018 16:51:43 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[14-May-2018 16:51:43 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[14-May-2018 16:51:43 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2040&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[14-May-2018 16:51:43 UTC] PHP Warning:  file_put_contents(diplomas/diploma2040.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[14-May-2018 16:53:47 UTC] Default exception handler: Un parámetro necesario (attempt) faltaba Debug: 
+Error code: missingparam
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 39 of /mod/quiz/processattempt.php: call to required_param()
+
+[14-May-2018 17:21:49 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[14-May-2018 17:21:49 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[14-May-2018 17:21:49 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2040&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[14-May-2018 17:21:49 UTC] PHP Warning:  file_put_contents(diplomas/diploma2040.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 11:52:53 UTC] Database transaction aborted automatically in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/processattempt.php
+[17-May-2018 11:52:53 UTC] Default exception handler: Ha introducido datos fuera de la secuencia normal. Esto puede ocurrir si utiliza los botones Atrás o Adelante de su navegador; por favor no los utilice durante la prueba. También puede ocurrir si hace clic sobre algo mientras se carga una página. Haga clic en <strong>Continuar</strong> para <strong>seguir.</strong> Debug: 
+Error code: submissionoutofsequencefriendlymessage
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 134 of /mod/quiz/processattempt.php: call to print_error()
+
+[17-May-2018 12:00:46 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 12:00:46 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 12:00:46 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2083&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 12:00:46 UTC] PHP Warning:  file_put_contents(diplomas/diploma2083.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 14:51:34 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 14:51:34 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 14:51:34 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 14:51:34 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 15:42:01 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 15:42:01 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 15:42:01 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 15:42:01 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 15:42:47 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 15:42:47 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 15:42:47 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 15:42:47 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 15:48:59 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 15:49:00 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 15:49:00 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 15:49:00 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 15:55:31 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 15:55:31 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 15:55:31 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 15:55:31 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 16:05:52 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 16:05:52 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:05:52 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:05:52 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 16:12:09 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 16:12:09 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:12:09 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:12:09 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 16:17:57 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 16:17:57 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:17:57 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:17:57 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 16:22:40 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 16:22:40 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:22:40 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:22:40 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 16:23:22 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 16:23:22 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:23:22 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:23:22 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 16:53:55 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 16:53:55 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:53:55 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:53:55 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[17-May-2018 16:54:15 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[17-May-2018 16:54:16 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:54:16 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2084&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[17-May-2018 16:54:16 UTC] PHP Warning:  file_put_contents(diplomas/diploma2084.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[19-May-2018 12:16:41 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[19-May-2018 12:16:41 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[19-May-2018 12:16:41 UTC] PHP Warning:  file_get_contents(http://academiaeninternet.com/aulavirtual/diplomaTemplate/diplomaTemplate.php?id=2108&amp;course=13&amp;token=549100): failed to open stream: no suitable wrapper could be found in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 253
+[19-May-2018 12:16:41 UTC] PHP Warning:  file_put_contents(diplomas/diploma2108.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[28-May-2018 19:44:46 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[28-May-2018 19:44:47 UTC] PHP Warning:  file_put_contents(diplomas/diploma2125.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[28-May-2018 19:46:22 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[28-May-2018 19:46:22 UTC] PHP Warning:  file_put_contents(diplomas/diploma2125.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[29-May-2018 19:31:24 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[29-May-2018 19:31:24 UTC] PHP Warning:  file_put_contents(diplomas/diploma2125.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[06-Jun-2018 21:30:45 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[06-Jun-2018 21:30:46 UTC] PHP Warning:  file_put_contents(diplomas/diploma2058.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[13-Jun-2018 15:59:59 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[13-Jun-2018 15:59:59 UTC] PHP Warning:  file_put_contents(diplomas/diploma2148.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[20-Jun-2018 09:13:00 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[20-Jun-2018 09:13:00 UTC] PHP Warning:  file_put_contents(diplomas/diploma2124.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258
+[28-Jun-2018 15:41:59 UTC] PHP Notice:  Undefined variable: oscarHeaders in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 250
+[28-Jun-2018 15:42:00 UTC] PHP Warning:  file_put_contents(diplomas/diploma2.html): failed to open stream: No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/mod/quiz/review.php on line 258

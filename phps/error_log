@@ -1,0 +1,76 @@
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:28 UTC] PHP Notice:  Undefined variable: calve in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 114
+[21-Mar-2018 18:43:29 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[21-Mar-2018 18:43:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:114) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 129
+[26-Mar-2018 23:09:07 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 117
+[26-Mar-2018 23:09:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:117) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[01-Apr-2018 09:01:49 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 117
+[01-Apr-2018 09:01:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:117) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[01-Apr-2018 09:03:43 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 117
+[01-Apr-2018 09:03:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:117) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[01-Apr-2018 09:07:00 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 117
+[01-Apr-2018 09:07:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:117) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[03-Apr-2018 06:53:13 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 117
+[03-Apr-2018 06:53:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:117) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[03-Apr-2018 15:11:57 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 117
+[03-Apr-2018 15:11:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:117) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[04-Apr-2018 04:50:52 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 117
+[04-Apr-2018 04:50:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:117) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[04-Apr-2018 10:17:29 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 117
+[04-Apr-2018 10:17:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:117) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[14-Apr-2018 18:54:52 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 117
+[14-Apr-2018 18:54:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:117) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[26-Apr-2018 18:32:32 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 117
+[26-Apr-2018 18:32:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:117) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 123
+[06-May-2018 03:02:34 UTC] PHP Notice:  Undefined index: json in /home/zvodezpxoniqq/public_html/aulavirtual/phps/adduser-best.php on line 36
+[06-May-2018 03:02:34 UTC] PHP Notice:  Undefined index: json in /home/zvodezpxoniqq/public_html/aulavirtual/phps/adduser-best.php on line 37
+[06-May-2018 03:02:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zvodezpxoniqq/public_html/aulavirtual/phps/adduser-best.php on line 41
+[06-May-2018 03:05:12 UTC] PHP Fatal error:  Call to undefined function remove_accents() in /home/zvodezpxoniqq/public_html/aulavirtual/phps/adduser-best.php on line 52
+[06-May-2018 22:17:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[06-May-2018 22:17:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[06-May-2018 22:17:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[06-May-2018 22:18:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 07:24:30 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 11:01:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 11:37:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 11:40:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:22:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:23:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:23:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:23:08 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:24:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:25:00 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:34:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:35:00 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:35:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:35:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:35:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 15:35:30 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 144
+[07-May-2018 17:19:06 UTC] PHP Notice:  Undefined variable: usejson in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 132
+[07-May-2018 17:19:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:132) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 136
+[07-May-2018 18:26:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:116) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 136
+[07-May-2018 18:26:49 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 137
+[07-May-2018 18:27:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:116) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 136
+[07-May-2018 18:27:57 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 137
+[07-May-2018 18:28:19 UTC] PHP Notice:  Array to string conversion in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 136
+[07-May-2018 18:30:27 UTC] PHP Notice:  Undefined variable: usejson in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 135
+[07-May-2018 18:30:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:135) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 138
+[13-May-2018 14:34:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:7) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 8
+[13-May-2018 14:38:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:7) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 8
+[13-May-2018 14:41:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:7) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 8
+[13-May-2018 14:43:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:7) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 8
+[13-May-2018 14:44:51 UTC] PHP Fatal error:  Call to undefined function vardump() in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 7
+[13-May-2018 14:45:39 UTC] PHP Fatal error:  Call to undefined function vardump() in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 7
+[13-May-2018 14:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:7) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 8
+[16-May-2018 16:39:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php:7) in /home/zvodezpxoniqq/public_html/aulavirtual/phps/insertuser.php on line 8

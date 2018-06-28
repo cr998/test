@@ -1,0 +1,90 @@
+[30-Nov-2014 21:56:45 Europe/Berlin] PHP Warning:  mkdir(): File exists in /home/zvodezpxoniqq/public_html/aulavirtual/lib/setuplib.php on line 1368
+[30-Nov-2014 21:56:45 Europe/Berlin] PHP Warning:  mkdir(): File exists in /home/zvodezpxoniqq/public_html/aulavirtual/lib/setuplib.php on line 1368
+[30-Nov-2014 21:56:45 Europe/Berlin] PHP Warning:  mkdir(): File exists in /home/zvodezpxoniqq/public_html/aulavirtual/lib/setuplib.php on line 1368
+[18-Feb-2016 20:45:29 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[04-Dec-2016 22:24:01 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[25-Dec-2017 17:24:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 10:12:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 19:01:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 20:49:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 20:59:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 10:11:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 15:43:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[06-Apr-2018 21:30:11 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[11-Apr-2018 23:57:25 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[02-May-2018 01:21:33 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[02-May-2018 04:40:10 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[02-May-2018 04:40:52 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[02-May-2018 06:35:50 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[10-May-2018 19:51:42 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[10-May-2018 20:11:01 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[10-May-2018 20:11:32 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[10-May-2018 20:12:03 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[30-May-2018 05:27:47 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[13-Jun-2018 01:13:11 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+
+[24-Jun-2018 06:26:33 UTC] Default exception handler: La 'sesskey' enviada es incorrecta, y el formulario no ha sido aceptado. Debug: 
+Error code: invalidsesskey
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 85 of /lib/sessionlib.php: call to print_error()
+* line 32 of /theme/switchdevice.php: call to require_sesskey()
+

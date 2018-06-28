@@ -1,0 +1,91 @@
+[08-Jan-2018 10:52:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[15-May-2018 17:30:10 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 17:30:33 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 17:30:40 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 21:19:38 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 21:22:30 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 21:22:49 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 21:24:05 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 21:24:31 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 21:25:30 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 21:25:37 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 21:25:42 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 21:32:12 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[15-May-2018 21:32:24 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[26-May-2018 01:12:15 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2909 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+
+[07-Jun-2018 19:59:55 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2909 of /lib/moodlelib.php: call to redirect()
+* line 34 of /repository/draftfiles_ajax.php: call to require_login()
+

@@ -1,0 +1,8 @@
+[08-Jan-2018 10:12:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[26-Mar-2018 17:50:32 UTC] Default exception handler: Un parámetro necesario (type) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /badges/view.php: call to required_param()
+
+[14-Jun-2018 22:01:49 UTC] PHP Notice:  Trying to get property of non-object in /home/zvodezpxoniqq/public_html/aulavirtual/badges/classes/assertion.php on line 76

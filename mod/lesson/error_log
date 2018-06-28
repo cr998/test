@@ -1,0 +1,395 @@
+[26-Feb-2016 00:23:12 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[22-Dec-2017 20:40:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 07:51:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 18:57:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:30:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:36:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:36:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:36:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:37:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:37:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:37:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:38:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:38:22 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:38:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:38:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:38:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:38:45 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:39:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:39:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:39:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:39:25 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:39:38 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:39:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:39:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:40:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:40:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:40:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:40:45 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:41:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:41:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:41:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:50:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:50:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:52:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:52:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:53:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:55:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:56:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:56:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:57:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:58:37 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:58:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:59:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:01:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:01:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:02:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:02:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:02:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:03:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:03:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:05:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:05:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:06:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:06:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:06:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:07:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:07:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:08:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:08:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:08:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:29:33 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:29:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:29:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:29:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:30:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:30:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:30:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:30:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:30:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:30:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:31:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:31:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:31:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:31:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:32:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:32:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:32:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:32:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:40:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:40:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:41:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:41:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:41:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:41:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:42:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:42:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:03:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:28:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:28:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:32:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:32:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:32:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:32:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:33:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:33:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:33:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:33:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:33:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:34:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:34:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:35:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:35:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:35:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:37:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:44:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:44:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:44:20 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:44:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:44:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:44:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:49:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:49:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:53:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:53:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:53:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:53:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:54:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:55:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:55:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:55:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:55:22 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:55:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:55:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:55:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:57:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:57:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:57:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:57:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:57:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:57:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:58:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:58:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:58:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:59:22 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:59:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:59:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:59:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:59:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:04:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:04:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:04:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:04:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:04:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:04:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:05:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:05:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:05:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:05:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:05:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:05:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:05:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:05:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:05:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:05:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:07:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:10:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:10:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:10:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:11:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:12:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:12:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:12:38 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:12:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:12:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:12:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:13:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:13:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:13:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:13:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:14:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:15:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:15:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:15:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:15:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:16:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:16:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:16:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:16:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:16:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:16:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:16:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:16:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:17:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:22:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:22:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:22:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:22:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:23:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:23:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:23:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:23:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:27:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:27:33 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:27:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:27:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:27:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:27:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:28:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:28:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:28:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:28:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:28:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:28:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:28:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:29:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:29:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:29:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:29:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:29:22 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:29:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:29:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:29:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[26-Mar-2018 15:13:53 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[26-Mar-2018 15:13:55 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[26-Mar-2018 17:50:27 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[26-Mar-2018 17:50:28 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[01-Apr-2018 20:01:45 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[04-Apr-2018 18:59:59 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[17-Apr-2018 16:32:33 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[17-Apr-2018 16:32:33 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[17-Apr-2018 16:32:33 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[17-Apr-2018 16:32:33 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[17-Apr-2018 16:32:34 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[17-Apr-2018 16:32:34 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[17-Apr-2018 16:32:35 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[17-Apr-2018 16:32:35 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[17-Apr-2018 16:32:35 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[26-Apr-2018 05:10:00 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[27-Apr-2018 11:20:55 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[28-Apr-2018 14:45:58 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[04-May-2018 09:14:44 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[04-May-2018 11:57:16 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[04-May-2018 15:02:47 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[07-May-2018 18:09:37 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[07-May-2018 19:04:32 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[19-May-2018 09:02:41 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[29-May-2018 20:07:44 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[12-Jun-2018 14:45:15 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[12-Jun-2018 14:45:24 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 31 of /mod/lesson/view.php: call to required_param()
+
+[13-Jun-2018 11:51:57 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+
+[13-Jun-2018 14:17:47 UTC] Default exception handler: Un parámetro necesario (id) faltaba Debug: 
+Error code: missingparam
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 30 of /mod/lesson/continue.php: call to required_param()
+

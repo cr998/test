@@ -1,0 +1,12 @@
+[21-Jun-2015 13:15:54 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[31-Jan-2016 14:05:40 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[26-Dec-2017 15:44:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 10:13:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 10:52:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 10:29:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:25:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[26-Mar-2018 17:50:38 UTC] Default exception handler: Parámetro faltante Debug: 
+Error code: missingparameter
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 86 of /mod/forum/view.php: call to print_error()
+

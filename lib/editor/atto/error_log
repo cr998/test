@@ -1,0 +1,103 @@
+[26-Dec-2017 16:51:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[15-May-2018 21:19:25 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:19:36 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:19:58 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:22:28 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:22:30 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:22:38 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:22:49 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:24:05 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:24:30 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:25:29 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:25:36 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:25:41 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:32:11 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[15-May-2018 21:32:23 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2955 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[26-May-2018 01:12:14 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2909 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[07-Jun-2018 19:59:55 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2909 of /lib/moodlelib.php: call to redirect()
+* line 43 of /lib/editor/atto/autosave-ajax.php: call to require_login()
+
+[14-Jun-2018 22:00:55 UTC] Default exception handler: Excepción desconocida relacionadas con los archivos locales (File does not exist) Debug: 
+Error code: storedfileproblem
+* line 978 of /lib/filestorage/file_storage.php: file_exception thrown
+* line 955 of /lib/filelib.php: call to file_storage->create_file_from_storedfile()
+* line 125 of /lib/editor/atto/autosave-ajax.php: call to file_save_draft_area_files()
+

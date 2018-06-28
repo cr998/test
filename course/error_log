@@ -1,0 +1,888 @@
+[06-May-2015 12:01:17 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[16-Jun-2015 11:18:29 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[18-Jun-2015 21:02:07 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[11-Jul-2015 01:20:43 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[16-Jul-2015 00:45:29 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[17-Jul-2015 11:21:47 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[25-Jul-2015 07:47:13 Europe/Berlin] PHP Warning:  unlink(/home/zvodezpxoniqq/moodledata/cache/core_component.php): No such file or directory in /home/zvodezpxoniqq/public_html/aulavirtual/lib/classes/component.php on line 213
+[22-Dec-2017 10:49:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[22-Dec-2017 11:44:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[22-Dec-2017 12:07:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[22-Dec-2017 13:18:20 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 02:57:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 03:00:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 03:42:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 03:42:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 03:54:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 03:54:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 03:54:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 07:51:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 07:51:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 11:09:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 14:26:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 15:24:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 18:45:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 20:21:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 20:49:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 20:50:38 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 20:51:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 20:51:38 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 20:55:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 20:57:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 20:57:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 20:59:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:00:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:03:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:19:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:20:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:21:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:22:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:23:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:25:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:26:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:28:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:28:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:33:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:34:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:35:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:36:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:37:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 21:38:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[23-Dec-2017 22:18:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 02:37:33 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 06:55:33 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 08:42:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 09:25:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 09:25:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 09:25:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 09:25:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 09:25:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 09:25:20 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 09:26:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 10:13:37 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 10:13:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 11:05:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 18:22:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 18:23:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[24-Dec-2017 18:33:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:30:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 07:30:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:06:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:08:20 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:42:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:42:37 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:42:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:43:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 08:43:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 09:33:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 10:49:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 10:49:38 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 10:49:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 11:15:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 11:16:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 11:16:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 14:39:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 15:34:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 15:34:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 15:35:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:03:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:03:38 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:23:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:23:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:23:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:23:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:24:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:34:45 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:35:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:50:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:58:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 17:59:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:07:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:13:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:16:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:28:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:28:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:28:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:30:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:30:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[25-Dec-2017 18:30:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[26-Dec-2017 12:42:33 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[26-Dec-2017 15:57:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[26-Dec-2017 15:57:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[26-Dec-2017 16:00:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[26-Dec-2017 16:14:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[26-Dec-2017 16:44:22 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[26-Dec-2017 16:44:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 09:44:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 09:44:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 09:44:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 09:44:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 09:44:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 09:45:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 12:24:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 12:25:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 12:25:22 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 12:25:37 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[29-Dec-2017 12:25:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 09:08:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 09:09:45 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 09:11:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 09:50:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 09:50:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 09:50:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 09:50:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 09:51:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 09:52:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 10:00:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 10:12:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 10:12:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 10:12:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 10:52:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 10:52:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 10:52:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 11:14:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 18:18:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 18:20:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 18:43:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 18:44:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 19:40:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 19:41:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 20:00:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 20:50:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 22:25:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[08-Jan-2018 23:56:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 06:02:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 09:35:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 09:36:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 09:50:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 10:26:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 10:30:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 11:27:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 11:31:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:19:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:19:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:20:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:20:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:20:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:21:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:21:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:21:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:21:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:21:33 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:22:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:22:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:51:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 12:53:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 16:57:33 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 17:06:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 19:16:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:13:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:13:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:25:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:27:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:29:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:30:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:31:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:33:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:34:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:34:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:35:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:35:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:35:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:35:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:36:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 21:36:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 22:09:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 22:18:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 22:34:20 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 22:34:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 22:35:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 22:35:33 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 22:35:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 22:36:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 23:06:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 23:06:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 23:16:45 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 23:37:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[09-Jan-2018 23:37:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 01:45:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 03:13:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 05:11:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 06:21:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 06:38:22 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 06:56:37 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 06:56:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 08:24:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:06:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:07:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:07:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:30:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:32:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:34:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:36:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:36:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:37:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:38:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:41:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:45:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 09:59:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 10:06:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 10:07:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 10:26:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 10:38:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:25:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:25:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:48:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:48:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:49:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:50:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:51:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:52:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:52:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 11:53:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 12:08:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 12:24:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 12:52:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 15:12:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 15:12:22 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 15:30:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 15:54:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 15:57:28 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 17:06:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 17:09:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 17:20:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:03:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:05:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:06:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:06:05 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:06:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:06:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:07:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:26:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:37:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:37:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:37:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:39:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:39:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:50:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 18:52:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[10-Jan-2018 20:03:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[11-Jan-2018 00:14:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[11-Jan-2018 04:00:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[11-Jan-2018 05:47:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[11-Jan-2018 06:31:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[11-Jan-2018 07:54:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[11-Jan-2018 09:42:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[11-Jan-2018 09:57:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[11-Jan-2018 10:31:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; filterobject has a deprecated constructor in /home/zvodezpxoniqq/public_html/aulavirtual/lib/filterlib.php on line 438
+[21-Mar-2018 04:11:36 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[25-Mar-2018 10:14:15 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[26-Mar-2018 15:14:06 UTC] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 32 of /course/view.php: call to print_error()
+
+[26-Mar-2018 17:50:38 UTC] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 32 of /course/view.php: call to print_error()
+
+[27-Mar-2018 17:08:09 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[27-Mar-2018 21:53:42 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[29-Mar-2018 13:35:06 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[31-Mar-2018 04:05:02 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[31-Mar-2018 04:05:06 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[31-Mar-2018 14:48:12 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[02-Apr-2018 11:02:16 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[04-Apr-2018 14:38:06 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[06-Apr-2018 03:46:28 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[06-Apr-2018 04:51:24 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[06-Apr-2018 08:57:16 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[09-Apr-2018 01:16:33 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[09-Apr-2018 01:16:51 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[09-Apr-2018 01:20:55 UTC] Default exception handler: No se puede encontrar registro de datos en la tabla course de la base de datos. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 20,
+)]
+Error code: invalidrecord
+* line 1451 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1427 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 35 of /course/view.php: call to moodle_database->get_record()
+
+[09-Apr-2018 04:06:41 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[09-Apr-2018 11:47:41 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[09-Apr-2018 15:18:56 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[09-Apr-2018 21:49:32 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[10-Apr-2018 00:41:13 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[10-Apr-2018 07:44:20 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[12-Apr-2018 09:10:00 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[12-Apr-2018 11:59:31 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[12-Apr-2018 12:08:05 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[12-Apr-2018 13:50:42 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[12-Apr-2018 14:50:44 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[12-Apr-2018 16:17:34 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[12-Apr-2018 16:17:45 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[12-Apr-2018 16:17:46 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[12-Apr-2018 16:17:47 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[14-Apr-2018 15:19:25 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[15-Apr-2018 17:51:51 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[16-Apr-2018 14:03:57 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[18-Apr-2018 13:00:29 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[20-Apr-2018 00:22:57 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[21-Apr-2018 22:24:35 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[24-Apr-2018 06:50:08 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[26-Apr-2018 03:12:44 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[27-Apr-2018 02:47:27 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[27-Apr-2018 04:31:21 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[27-Apr-2018 04:31:34 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[27-Apr-2018 05:43:12 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[27-Apr-2018 05:43:33 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[27-Apr-2018 05:43:42 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[27-Apr-2018 05:43:45 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[28-Apr-2018 10:34:40 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[02-May-2018 10:44:01 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[02-May-2018 16:51:19 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[03-May-2018 23:53:08 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[05-May-2018 16:31:29 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[06-May-2018 15:38:14 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[08-May-2018 03:16:00 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[10-May-2018 04:30:37 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[12-May-2018 08:12:18 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[15-May-2018 01:59:08 UTC] Default exception handler: Coding error detected, it must be fixed by a programmer: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[15-May-2018 23:59:57 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[17-May-2018 07:07:23 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[17-May-2018 09:14:04 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[17-May-2018 09:14:19 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[17-May-2018 10:56:50 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[17-May-2018 10:57:14 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[17-May-2018 10:57:35 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[17-May-2018 10:57:50 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[18-May-2018 00:07:22 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[19-May-2018 18:30:54 UTC] Default exception handler: No se puede encontrar registro de datos en la tabla course de la base de datos. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 20,
+)]
+Error code: invalidrecord
+* line 1451 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1427 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 35 of /course/view.php: call to moodle_database->get_record()
+
+[20-May-2018 15:33:31 UTC] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::get_in_or_equal() does not accept empty arrays Debug: 
+Error code: codingerror
+* line 693 of /lib/dml/moodle_database.php: coding_exception thrown
+* line 1093 of /lib/coursecatlib.php: call to moodle_database->get_in_or_equal()
+* line 1430 of /course/renderer.php: call to coursecat->get_children()
+* line 1516 of /course/renderer.php: call to core_course_renderer->coursecat_subcategories()
+* line 1627 of /course/renderer.php: call to core_course_renderer->coursecat_category_content()
+* line 1747 of /course/renderer.php: call to core_course_renderer->coursecat_tree()
+* line 57 of /course/index.php: call to core_course_renderer->course_category()
+
+[24-May-2018 00:36:56 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2909 of /lib/moodlelib.php: call to redirect()
+* line 56 of /course/rest.php: call to require_login()
+
+[24-May-2018 00:36:56 UTC] Default exception handler: Detectada redirección no admitida: ejecución del script terminada Debug: 
+Error code: redirecterrordetected
+* line 2532 of /lib/weblib.php: moodle_exception thrown
+* line 2909 of /lib/moodlelib.php: call to redirect()
+* line 56 of /course/rest.php: call to require_login()
+
+[30-May-2018 07:42:33 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[04-Jun-2018 03:29:40 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[04-Jun-2018 03:29:53 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[20-Jun-2018 15:26:13 UTC] Default exception handler: Lo sentimos, pero su clave de sesión no ha podido ser confirmada para llevar a cabo esta acción. Esta característica de seguridad previene contra la ejecución en su nombre (accidental o maliciosa) de funciones importantes. Por favor, asegúrese de que realmente deseaba ejecutar esta función. Debug: 
+Error code: confirmsesskeybad
+* line 462 of /lib/setuplib.php: moodle_exception thrown
+* line 34 of /course/jumpto.php: call to print_error()
+
+[22-Jun-2018 09:19:12 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[22-Jun-2018 09:19:15 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[25-Jun-2018 00:22:15 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[25-Jun-2018 00:22:21 UTC] Default exception handler: Categoría desconocida Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[25-Jun-2018 00:22:47 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[25-Jun-2018 00:22:50 UTC] Default exception handler: Unknown category Debug: 
+Error code: unknowncategory
+* line 1795 of /lib/pagelib.php: moodle_exception thrown
+* line 1181 of /lib/pagelib.php: call to moodle_page->load_category()
+* line 34 of /course/index.php: call to moodle_page->set_category_by_id()
+
+[25-Jun-2018 00:22:51 UTC] Default exception handler: No se puede encontrar registro de datos en la tabla course de la base de datos. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 20,
+)]
+Error code: invalidrecord
+* line 1451 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1427 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 35 of /course/view.php: call to moodle_database->get_record()
+
